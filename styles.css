@@ -1,1 +1,38 @@
-/* Write your CSS here! */
+/* Write your CSS here*
+element
+class
+id*/
+
+body {
+  margin: 8px;
+  padding: 8px;
+  display: block;
+}
+
+#mainHeading {
+  color: red;
+}
+
+.center {
+  display: grid;
+  place-items: center;
+}
+
+.funParagraph {
+  color: green;
+  text-align: center;
+}
+
+img {
+  max-width: 65%;
+  max-height: 65%;
+}
+
+article {
+  margin: 80px;
+  padding: 80px;
+}
+
+.CrewMembersLeft {
+  align-items:baseline;
+}
